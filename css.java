@@ -8,3 +8,7 @@ TP2-NizS/
         ├── Ejercicio4.java
         ├── Ejercicio5.java
         └── Ejercicio6.java
+        └── Ejercicio7.java
+        └── Ejercicio8.java
+        └── Ejercicio9.java
+        └── Ejercicio10.java
